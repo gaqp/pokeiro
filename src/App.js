@@ -34,7 +34,7 @@ class App extends Component {
           venda: response.data.EUR.bid
         }
       })
-      this.getPokemon(Math.trunc((this.state.euro.compra*100)))
+      this.getPokemon(Math.trunc((this.state.euro.compra * 100)))
     }
     );
   }
@@ -66,7 +66,7 @@ class App extends Component {
         <div className="pokeEuro-body">
           <div className="pokeEuro-card">
             <img src={this.state.pokemon.foto} alt="Fotinha do pokemão" />
-            <br/>
+            <br />
             {this.state.pokemon.nome}
             <br />
             Cotação de venda: <b>R$ {this.state.euro.compra}</b>
@@ -75,7 +75,11 @@ class App extends Component {
             <br />
           </div>
         </div>
+        <footer>
+          Esta merda foi copiada de DFCS
+      </footer>
       </div >
+
     );
 
   }

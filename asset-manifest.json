@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1481af18.chunk.css",
+    "main.js": "/static/js/main.03e4090b.chunk.js",
+    "main.js.map": "/static/js/main.03e4090b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd0118da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd0118da.js.map",
+    "static/js/2.25a8177c.chunk.js": "/static/js/2.25a8177c.chunk.js",
+    "static/js/2.25a8177c.chunk.js.map": "/static/js/2.25a8177c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.346bc95f418a03655f27d0632238474a.js": "/precache-manifest.346bc95f418a03655f27d0632238474a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1481af18.chunk.css.map": "/static/css/main.1481af18.chunk.css.map",
+    "static/js/2.25a8177c.chunk.js.LICENSE.txt": "/static/js/2.25a8177c.chunk.js.LICENSE.txt",
+    "static/media/pokedolar.png": "/static/media/pokedolar.12e55ad5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd0118da.js",
+    "static/js/2.25a8177c.chunk.js",
+    "static/css/main.1481af18.chunk.css",
+    "static/js/main.03e4090b.chunk.js"
+  ]
+}
